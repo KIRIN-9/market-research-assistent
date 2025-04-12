@@ -36,7 +36,7 @@ Market Research Assistant is a powerful tool that streamlines the market researc
 1. Clone the repository
 
    ```bash
-   git clone https://github.com/yourusername/market-research-assistant.git
+   git clone https://github.com/KIRIN-9/market-research-assistent.git
    cd market-research-assistant
    ```
 
